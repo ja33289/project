@@ -1,6 +1,6 @@
 name: projectenv
-channels:
-  - conda-forage
+channels: 
+  - defaults
 dependencies:
   - numpy
   - mediapipe
