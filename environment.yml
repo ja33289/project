@@ -2,6 +2,6 @@ name: projectenv
 channels:
   -conda-forage
 dependencies:
-  - numpy
+  -numpy
   -mediapipe
   -opencv
