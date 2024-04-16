@@ -2,4 +2,4 @@ name: projectenv
 dependencies:
   - numpy
   -mediapipe
-  -conda-forge opencv
+  -opencv
